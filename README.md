@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Roman Gleyzer 👋
 
-<!--
-**RomanGleyzer/RomanGleyzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 1C programmer at the Ural Federal University named after the First President of Russia B. N. Yeltsin.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- **Languages & Frameworks:**  
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+  ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+  ![1C](https://img.shields.io/badge/-1C-FFD700?style=flat-square&logo=1c&logoColor=black)
+
+---
+
+![RomanGleizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanGleizer&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanGleizer&layout=compact&theme=default)
