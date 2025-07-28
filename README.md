@@ -14,5 +14,5 @@ I'm a 1C programmer at the Ural Federal University named after the First Preside
 
 ---
 
-![RomanGleizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanGleizer&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanGleizer&layout=compact&theme=default)
+![RomanGleizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanGleyzer&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanGleyzer&layout=compact&theme=default)
