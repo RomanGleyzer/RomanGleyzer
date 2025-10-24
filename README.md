@@ -1,4 +1,4 @@
-# 💫 About Me: 1C programmer at UrFU
+# 1C programmer at UrFU
 🌱 I’m currently learning ASP.NET and related technologies
 
 
