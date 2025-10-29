@@ -1,5 +1,5 @@
 # 1C programmer at UrFU
-🌱 I’m currently learning ASP.NET and related technologies
+I’m currently learning ASP.NET and related technologies
 
 
 # 💻 Tech Stack:
